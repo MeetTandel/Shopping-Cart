@@ -1,0 +1,25 @@
+{
+    "products": [
+    {
+        "id": 1,
+        "name": "Printed T-Shirt",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51k9RGLYCsL._UX679_.jpg",
+        "price": 399,
+        "original-price": 499
+    },
+    {
+        "id": 2,
+        "name": "Men's Fleece Hoodie",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61iF8gVDh%2BL._UX569_.jpg",
+        "price": 799,
+        "original-price": 999
+    },
+    {
+        "id": 3,
+        "name": "Men's Polyster Hoodie",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/61YE2shWkPL._UX679_.jpg",
+        "price": 999,
+        "original-price": 1299
+    }
+]
+}
